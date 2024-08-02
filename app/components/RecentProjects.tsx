@@ -10,7 +10,7 @@ const PinContainer = dynamic(() => import('./ui/3d-pin').then((mod) => mod.PinCo
 
 const RecentProjects = () => {
   return (
-    <div className='py-20'>
+    <div className='py-20' id='projects'>
       <h1 className="heading">
         A small selection of {' '}
         <span className='text-purple'>recent projects</span>
