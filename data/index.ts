@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "Our tech stack",
-      description: "I constantly try to improve",
+      description: "We constantly try to improve",
       className: " col-span-1 row-span-1 md:col-span-1 md:row-span-1 lg:col-span-1 lg:row-span-1",
       imgClassName: "",
       titleClassName: "justify-end md:justify-center",
